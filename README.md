@@ -1,2 +1,2 @@
-# boolean-uk-html-gymtastic
+# gym-repository
 Created with CodeSandbox
